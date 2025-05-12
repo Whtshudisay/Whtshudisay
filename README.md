@@ -1,4 +1,4 @@
-## Hi There Yash Avjekar !!! <br/>
+## Hi, I'm Yash Avjekar !!! <br/>
 
 🏫 I’m Computer Science Student At Vellore Institute of Technology.<br/>
 🔷 Learn, Write, Read, Journal, Create.<br/>
