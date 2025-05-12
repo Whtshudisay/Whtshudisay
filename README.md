@@ -3,7 +3,7 @@
 🏫 I’m Computer Science Student At Vellore Institute of Technology.<br/>
 🔷 Learn, Read, Write, Journal and Create.<br/>
 🌱 I’m currently learning MERN stack, DevOPS, Django, Flask, MCP Server<br/>
-📝 Interests/Hobbies- DIY, IOT, Electronics, Games, Music, Reading, MotorSports(WRC), Cars, Gadgets, Building PCs, FOODiee, Drums
+📝 Interests/Hobbies- DIY, IOT, Electronics, Games, Music, Reading, MotorSports(WRC), Cars, Gadgets, Building PCs, FOODiee, Drums,<br/>
 💬 Thoughts...<br/>
 ⚡ Fun fact - I have been through CAnCeR 🎗️<br/>
 
