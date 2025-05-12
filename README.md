@@ -1,8 +1,7 @@
 ## Hi, I'm Yash Avjekar !!! <br/>
 
 🏫 I’m Computer Science Student At Vellore Institute of Technology.<br/>
-🔷 Learn, Write, Read, Journal, Create.<br/>
-🤝 I’m looking for help with<br/>
+🔷 Learn, Read, Write, Journal and Create.<br/>
 🌱 I’m currently learning MERN stack, DevOPS, Django, Flask, MCP Server<br/>
 💬 Thoughts...<br/>
 ⚡ Fun fact - I have been through CAnCeR 🎗️<br/>
